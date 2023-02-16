@@ -50,6 +50,7 @@
                     <formats>
                         <format>xml</format>
                     </formats>
+                    <check/>
                 </configuration>
                 <executions>
                     <execution>
@@ -66,7 +67,7 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.13.2</version>
+            <version>4.11</version>
         </dependency>
     </dependencies>
 </project>
